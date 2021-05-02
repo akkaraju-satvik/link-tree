@@ -1,0 +1,261 @@
+@media (min-width:320px) {
+    body {
+        height: 50vh;
+        width: 100vw;
+        padding-top: 0;
+    }
+    
+    .header {
+        margin-top: 25%;
+        height: 30vh;
+    }
+
+    .header__div {
+        top: 20%;
+    }
+    
+    .headingPrimary {
+        font-size: 1.7rem;
+    }
+
+    .headingPrimary--1, .headingPrimary--2 {
+        display: inline;
+    }
+    .header__portrait {
+        width: 50%;
+    }
+    .link:link, .link:visited {
+        width: 125%;
+    }
+    .links {
+        left: 40%;
+    }
+}
+
+@media (min-width:425px) {
+    body {
+        padding-top: 0;
+    }
+    
+    .header {
+        margin-top: 0%;
+        height: 40vh;
+    }
+
+    .header__div {
+        top: 20%;
+    }
+    
+    .headingPrimary {
+        font-size: 2rem;
+    }
+
+    .headingPrimary--1, .headingPrimary--2 {
+        display: inline;
+    }
+    .header__portrait {
+        width: 60%;
+    }
+    .link:link, .link:visited {
+        width: 125%;
+    }
+    .links {
+        left: 40%;
+    }
+}
+
+@media (min-width:768px) {
+    body {
+        padding-top: 0;
+    }
+    
+    .header {
+        margin-top: 0%;
+        height: 40vh;
+    }
+
+    .header__div {
+        top: 20%;
+    }
+    
+    .headingPrimary {
+        font-size: 2rem;
+    }
+
+    .headingPrimary--1, .headingPrimary--2 {
+        display: block;
+    }
+    .header__portrait {
+        width: 50%;
+    }
+    .link:link, .link:visited {
+        width: 125%;
+    }
+    .links {
+        left: 45%;
+    }
+}
+
+@media (min-width:768px) {
+    body {
+        padding-top: 0;
+    }
+    
+    .header {
+        margin-top: 0%;
+        height: 40vh;
+    }
+
+    .header__div {
+        top: 20%;
+    }
+    
+    .headingPrimary {
+        font-size: 2rem;
+    }
+
+    .headingPrimary--1, .headingPrimary--2 {
+        display: block;
+    }
+    .header__portrait {
+        width: 50%;
+    }
+    .link:link, .link:visited {
+        width: 125%;
+    }
+    .links {
+        left: 45%;
+    }
+}
+
+@media (min-width:1024px) {
+    body {
+        padding-top: 0;
+    }
+    
+    .header {
+        margin-top: 0%;
+        height: 40vh;
+    }
+
+    .header__div {
+        top: 20%;
+    }
+    
+    .headingPrimary {
+        font-size: 2rem;
+    }
+
+    .headingPrimary--1, .headingPrimary--2 {
+        display: block;
+    }
+    .header__portrait {
+        width: 25%;
+    }
+    .link:link, .link:visited {
+        width: 125%;
+        font-size: 1.5rem;
+    }
+    .links {
+        left: 46%;
+    }
+}
+
+@media (min-width:1440px) {
+    body {
+        padding-top: 0;
+    }
+    
+    .header {
+        margin-top: 0%;
+        height: 40vh;
+    }
+
+    .header__div {
+        top: 20%;
+    }
+    
+    .headingPrimary {
+        font-size: 2rem;
+    }
+
+    .headingPrimary--1, .headingPrimary--2 {
+        display: block;
+    }
+    .header__portrait {
+        width: 30%;
+    }
+    .link:link, .link:visited {
+        width: 125%;
+    }
+    .links {
+        left: 48%;
+    }
+}
+
+@media (min-width:1880px) {
+    body {
+        padding-top: 0;
+    }
+    
+    .header {
+        margin-top: 0%;
+        height: 40vh;
+    }
+
+    .header__div {
+        top: 22%;
+    }
+    
+    .headingPrimary {
+        font-size: 2rem;
+    }
+
+    .headingPrimary--1, .headingPrimary--2 {
+        display: block;
+    }
+    .header__portrait {
+        width: 20%;
+    }
+    .link:link, .link:visited {
+        width: 125%;
+    }
+    .links {
+        left: 48%;
+    }
+}
+
+@media (min-width:2560px) {
+    body {
+        padding-top: 0;
+    }
+    
+    .header {
+        margin-top: 0%;
+        height: 40vh;
+    }
+
+    .header__div {
+        top: 22%;
+    }
+    
+    .headingPrimary {
+        margin-top: 2rem;
+
+        font-size: 3rem;
+    }
+
+    .headingPrimary--1, .headingPrimary--2 {
+        display: inline;
+    }
+    .header__portrait {
+        width: 20%;
+    }
+    .link:link, .link:visited {
+        width: 100%;
+        font-size: 2rem;
+    }
+    .links {
+        left: 50%;
+    }
+}
