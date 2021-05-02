@@ -1,0 +1,14 @@
+{
+  "name": "link-tree",
+  "version": "1.0.0",
+  "description": "Links for my Instagram Bio",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass ./sass/main.scss ./css/style.css -w"
+  },
+  "author": "Akkaraju Satvik",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
